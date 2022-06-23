@@ -29,8 +29,11 @@
 - [Algorand DevRel Example Contracts](https://github.com/algorand/smart-contracts)
 
 
-rights from > https://github.com/algorand-devrel/pyteal-course
-minimal code updates:
-    - added personal donation project
-    - config.sh updated
-    - comments added to deeply understand the code and how it works
+<p> Rights reserved to ~> https://github.com/algorand-devrel/pyteal-course </p>
+ 
+ <hr>
+ 
+minimal code updates: 
+- added personal donation project
+- config.sh updated
+- comments added to deeply understand the code and how it works
